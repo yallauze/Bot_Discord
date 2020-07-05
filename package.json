@@ -1,0 +1,11 @@
+{
+  "name": "yalihbbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myBotHB.js",
+  "author": "Yali",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
